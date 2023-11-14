@@ -29,7 +29,7 @@ This repository contains Python scripts that scrape and extract data from the Pl
 2. Create a virtual environment and activate it:
 
     ```bash
-    cd scrape_play_store
+    cd Comment_insights
     python -m venv venv
     source venv/bin/activate   # For Windows: venv\Scripts\activate
     ```
