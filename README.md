@@ -23,7 +23,7 @@ This repository contains Python scripts that scrape and extract data from the Pl
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your_username/your_project.git
+    git clone https://github.com/rmp2000/Comment_Insights.git
     ```
 
 2. Create a virtual environment and activate it:
